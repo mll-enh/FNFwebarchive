@@ -16,11 +16,13 @@
             text-align: center;
         }
         .container {
-            padding: 50px;
-            background-color: rgba(0, 0, 0, 0.5);
-            margin: 50px auto;
-            width: 80%;
+            padding: 30px;
+            background-color: rgba(0, 0, 0, 0.6);
+            margin: 30px auto;
+            width: 90%;
+            max-width: 1200px;
             border-radius: 15px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
         }
         h1 {
             font-size: 3em;
@@ -34,7 +36,8 @@
         }
         .buttons {
             display: flex;
-            justify-content: space-around;
+            flex-wrap: wrap;
+            justify-content: center;
             margin: 20px 0;
         }
         .button {
@@ -45,10 +48,18 @@
             border: none;
             border-radius: 5px;
             text-decoration: none;
-            transition: background-color 0.3s;
+            transition: background-color 0.3s, transform 0.3s;
+            margin: 10px;
         }
         .button:hover {
             background-color: #555;
+            transform: scale(1.05);
+        }
+        @media (max-width: 600px) {
+            .button {
+                width: 100%;
+                margin: 10px 0;
+            }
         }
     </style>
 </head>
@@ -57,30 +68,12 @@
         <h1>FNF Archives</h1>
         <p>Welcome to the FNF Archives! Here you'll find everything related to Friday Night Funkin'.</p>
         <div class="buttons">
-            <a href="/ludum" class="button">proto</a>
-            <a href="#/week2" class="button">week2</a>
-            <a href="/week3" class="button">week3</a>
-            <a href="/week4" class="button">week4</a>
-           <a href="#/week6" class="button">week6</a>
-           <a href="/week8" class="button">week8leak</a>
-        </div>
-        <div class="content">
-            <h2 id="about">About</h2>
-            <p>This website is dedicated to archiving all things related to Friday Night Funkin' (FNF). Stay tuned for more content!</p>
-            
-            <h2 id="characters">Characters</h2>
-            <p>Learn more about the characters in FNF.</p>
-            
-            <h2 id="songs">Songs</h2>
-            <p>Explore the iconic songs from FNF.</p>
-            
-            <h2 id="mods">Mods</h2>
-            <p>Check out popular mods for FNF.</p>
-            
-            <h2 id="contact">Contact</h2>
-            <p>Get in touch with us for any queries or contributions.</p>
-        </div>
-    </div>
+            <a href="/ludum" class="button">Proto</a>
+            <a href="/week2" class="button">Week 2</a>
+            <a href="/week3" class="button">Week 3</a>
+            <a href="/week4" class="button">Week 4</a>
+            <a href="/week6" class="button">Week 6</a>
+            <a href="/week8" class="button">Week 8 Leak</a>
+       
 </body>
 </html>
-
