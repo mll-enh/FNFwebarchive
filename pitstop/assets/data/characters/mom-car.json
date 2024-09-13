@@ -1,72 +1,87 @@
 {
-  "version": "1.0.0",
-  "name": "Mommy Mearest (Car)",
-  "assetPath": "characters/momCar",
-  "singTime": 8.0,
-  "healthIcon": {
-    "id": "mom"
-  },
-  "cameraOffsets": [0, -100],
-  "animations": [
-    {
-      "name": "idle",
-      "prefix": "Mom Idle0",
-      "offsets": [0, 0]
+    "version": "1.0.0",
+    "name": "Miku1",
+    "assetPath": "characters/ev_miku_assets(1)",
+    "singTime": 4,
+    "isPixel": false,
+    "scale": 1,
+    "healthIcon": {
+        "id": "miku",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
     },
-    {
-      "name": "idle-hold",
-      "prefix": "Mom Idle",
-      "looped": true,
-      "frameIndices": [10, 11, 12, 13],
-      "offsets": [0, 0]
-    },
-    {
-      "name": "singLEFT",
-      "prefix": "Mom Left Pose0",
-      "offsets": [250, -23]
-    },
-    {
-      "name": "singLEFT-hold",
-      "prefix": "Mom Left Pose0",
-      "looped": true,
-      "frameIndices": [2, 3, 4, 5, 6, 7, 8, 9],
-      "offsets": [250, -23]
-    },
-    {
-      "name": "singDOWN",
-      "prefix": "MOM DOWN POSE0",
-      "offsets": [20, -160]
-    },
-    {
-      "name": "singDOWN-hold",
-      "prefix": "MOM DOWN POSE0",
-      "looped": true,
-      "frameIndices": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
-      "offsets": [20, -160]
-    },
-    {
-      "name": "singUP",
-      "prefix": "Mom Up Pose0",
-      "offsets": [14, 71]
-    },
-    {
-      "name": "singUP-hold",
-      "prefix": "Mom Up Pose0",
-      "looped": true,
-      "frameIndices": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
-      "offsets": [14, 71]
-    },
-    {
-      "name": "singRIGHT",
-      "prefix": "Mom Pose Left0",
-      "offsets": [10, -60]
-    },
-    {
-      "name": "singRIGHT-hold",
-      "prefix": "Mom Pose Left0",
-      "looped": true,
-      "frameIndices": [2, 3, 4, 5, 6, 7, 8, 9],
-      "offsets": [10, -60]
-    }
-  ]
+    "animations": [
+        {
+            "name": "idle",
+            "prefix": "Miku idle dance",
+            "offsets": [
+                2,
+                380
+            ],
+            "frameRate": 30,
+            "frameIndices": []
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "Miku Sing Note LEFT0",
+            "offsets": [
+                24,
+                384
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "Miku Sing Note DOWN0",
+            "offsets": [
+                -16,
+                341
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "Miku Sing Note UP0",
+            "offsets": [
+                13,
+                425
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "Miku Sing Note RIGHT0",
+            "offsets": [
+                -15,
+                400
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "paz",
+            "prefix": "miku hey",
+            "offsets": [
+                28,
+                389
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "",
+            "prefix": "",
+            "offsets": [
+                -1,
+                173
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        }
+    ],
+    "flipX": false
 }

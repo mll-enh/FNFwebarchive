@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "MOMMY MUST MURDER",
+  "name": "Vs Miku",
   "titleAsset": "storymenu/titles/week4",
   "props": [
     {
@@ -53,5 +53,5 @@
     }
   ],
   "background": "#F9CF51",
-  "songs": ["satin-panties", "high", "milf"]
+  "songs": ["satin-panties", "high", "milf", "cocoa"]
 }
