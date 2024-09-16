@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="fightDarnell.png">
 	<SubTexture name="block darnell0000" x="792" y="846" width="223" height="294" frameX="0" frameY="0" frameWidth="228" frameHeight="294" />
 	<SubTexture name="block darnell0001" x="792" y="846" width="223" height="294" frameX="0" frameY="0" frameWidth="228" frameHeight="294" />

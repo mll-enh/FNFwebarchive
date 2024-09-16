@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="expansion2-text.png">
 	<SubTexture name="switch0001" x="4" y="4" width="297" height="142" frameX="0" frameY="0" frameWidth="297" frameHeight="147"/>
 	<SubTexture name="switch0002" x="4" y="4" width="297" height="142" frameX="0" frameY="0" frameWidth="297" frameHeight="147"/>

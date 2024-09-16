@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="Spraypaint_Can_Assets.png">
 	<SubTexture name="Explosion 1 movie0000" x="2136" y="1867" width="278" height="281" frameX="-387" frameY="-342" frameWidth="1186" frameHeight="1231" />
 	<SubTexture name="Explosion 1 movie0001" x="3034" y="0" width="954" height="918" frameX="-103" frameY="-123" frameWidth="1186" frameHeight="1231" />
