@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SpookyKids.png">
+<SubTexture name="SingDOWN0000" x="0" y="0" width="464" height="409" frameX="0" frameY="-3" frameWidth="464" frameHeight="412" />
+<SubTexture name="SingDOWN0001" x="464" y="0" width="450" height="409" frameX="-7" frameY="0" frameWidth="464" frameHeight="412" />
+<SubTexture name="Idle0000" x="914" y="0" width="358" height="484" frameX="-79" frameY="-61" frameWidth="493" frameHeight="549" />
+<SubTexture name="Idle0001" x="0" y="484" width="482" height="524" frameX="-7" frameY="-20" frameWidth="493" frameHeight="549" />
+<SubTexture name="Idle0002" x="914" y="0" width="358" height="484" frameX="-79" frameY="-61" frameWidth="493" frameHeight="549" />
+<SubTexture name="Idle0003" x="558" y="1011" width="380" height="541" frameX="-55" frameY="-8" frameWidth="493" frameHeight="549" />
+<SubTexture name="Idle0004" x="914" y="0" width="358" height="484" frameX="-79" frameY="-61" frameWidth="493" frameHeight="549" />
+<SubTexture name="SingLEFT0000" x="924" y="484" width="557" height="527" frameX="0" frameY="-2" frameWidth="564" frameHeight="531" />
+<SubTexture name="SingLEFT0001" x="0" y="1011" width="558" height="531" frameX="-6" frameY="0" frameWidth="564" frameHeight="531" />
+<SubTexture name="SingRIGHT0000" x="482" y="484" width="442" height="524" frameX="0" frameY="-9" frameWidth="442" frameHeight="533" />
+<SubTexture name="SingRIGHT0001" x="938" y="1011" width="438" height="533" frameX="0" frameY="0" frameWidth="442" frameHeight="533" />
+<SubTexture name="Cheer0000" x="0" y="1552" width="619" height="558" frameX="-13" frameY="-19" frameWidth="644" frameHeight="578" />
+<SubTexture name="Cheer0001" x="1024" y="1552" width="630" height="566" frameX="-5" frameY="-11" frameWidth="644" frameHeight="578" />
+<SubTexture name="SingUP0000" x="619" y="1552" width="405" height="565" frameX="0" frameY="-6" frameWidth="405" frameHeight="571" />
+<SubTexture name="SingUP0001" x="0" y="2118" width="399" height="571" frameX="0" frameY="0" frameWidth="405" frameHeight="571" />
+</TextureAtlas>

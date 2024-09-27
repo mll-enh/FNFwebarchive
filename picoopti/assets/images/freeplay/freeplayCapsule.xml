@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freeplayCapsule.png">
+<SubTexture name="mp3 capsule w backing0000" x="0" y="0" width="564" height="126" frameX="-35" frameY="-6" frameWidth="612" frameHeight="132" />
+<SubTexture name="mp3 capsule w backing NOT SELECTED0000" x="0" y="126" width="558" height="126" frameX="-36" frameY="-6" frameWidth="602" frameHeight="132" />
+</TextureAtlas>

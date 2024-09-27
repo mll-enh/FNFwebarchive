@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rankbadges.png">
+<SubTexture name="EXCELLENT rank0000" x="0" y="0" width="25" height="35" frameX="-6" frameY="-4" frameWidth="40" frameHeight="50" />
+<SubTexture name="GOOD rank0000" x="25" y="0" width="29" height="35" frameX="-6" frameY="-4" frameWidth="44" frameHeight="50" />
+<SubTexture name="GREAT rank0000" x="0" y="35" width="29" height="35" frameX="-6" frameY="-4" frameWidth="44" frameHeight="50" />
+<SubTexture name="LOSS rank0000" x="29" y="35" width="25" height="35" frameX="-6" frameY="-4" frameWidth="40" frameHeight="46" />
+<SubTexture name="PERFECT rank0000" x="0" y="70" width="30" height="35" frameX="-9" frameY="-4" frameWidth="52" frameHeight="54" />
+<SubTexture name="PERFECT rank GOLD0000" x="30" y="70" width="30" height="35" frameX="-9" frameY="-4" frameWidth="52" frameHeight="54" />
+</TextureAtlas>

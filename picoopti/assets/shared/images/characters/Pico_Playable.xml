@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pico_Playable.png">
+<SubTexture name="Pico Down Note MISS0000" x="0" y="0" width="499" height="425" frameX="0" frameY="-6" frameWidth="732" frameHeight="433" />
+<SubTexture name="Pico Left Note MISS0000" x="499" y="0" width="460" height="500" frameX="0" frameY="0" frameWidth="460" frameHeight="500" />
+<SubTexture name="Pico Right Note MISS0000" x="0" y="500" width="444" height="522" frameX="-1" frameY="0" frameWidth="468" frameHeight="522" />
+<SubTexture name="Pico Up Note MISS0000" x="444" y="500" width="444" height="530" frameX="-3" frameY="0" frameWidth="450" frameHeight="531" />
+</TextureAtlas>

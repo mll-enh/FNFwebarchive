@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pauseUI.png">
+<SubTexture name="bluecancel instance 0000" x="0" y="0" width="207" height="196" frameX="-14" frameY="0" frameWidth="977" frameHeight="200" />
+<SubTexture name="bluereplay instance 0000" x="207" y="0" width="227" height="196" frameX="-15" frameY="0" frameWidth="256" frameHeight="200" />
+<SubTexture name="cancelyellow instance 0000" x="0" y="196" width="207" height="195" frameX="-14" frameY="0" frameWidth="977" frameHeight="199" />
+<SubTexture name="yellowreplay instance 0000" x="207" y="196" width="227" height="195" frameX="-15" frameY="-1" frameWidth="256" frameHeight="200" />
+</TextureAtlas>

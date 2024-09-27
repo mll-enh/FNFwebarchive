@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "name": "Christmas Mall (Nice)",
+  "cameraZoom": 0.8,
+  "props": [
+    {
+      "name": "bgWalls",
+      "assetPath": "christmas/bgWalls",
+      "position": [-1000, -440],
+      "scale": [1.6, 1.6],
+      "scroll": [0.2, 0.2],
+      "zIndex": 10
+    },
+    {
+      "name": "christmasTree",
+      "assetPath": "christmas/christmasTree",
+      "position": [370, -250],
+      "scale": [1, 1],
+      "scroll": [0.4, 0.4],
+      "zIndex": 40
+    },
+    {
+      "name": "bottomBoppers",
+      "assetPath": "christmas/bottomBop",
+      "position": [-300, 120],
+      "scale": [1.25, 1.25],
+      "scroll": [0.9, 0.9],
+      "zIndex": 50
+    },
+    {
+      "name": "fgSnow",
+      "assetPath": "christmas/fgSnow",
+      "position": [-1150, 680],
+      "scale": [4, 4],
+      "scroll": [1, 1],
+      "zIndex": 60
+    },
+     {
+      "name": "snowUnder",
+      "assetPath": "#F3F4F5",
+      "position": [-1200, 800],
+      "scale": [5400, 3000],
+      "scroll": [1,1],
+      "zIndex": 59
+    },
+    {
+      "name": "santa",
+      "assetPath": "christmas/santa",
+      "position": [-840, 150],
+      "scale": [1, 1],
+      "scroll": [1, 1],
+      "danceEvery": 1,
+      "zIndex": 210,
+      "startingAnimation": "idle",
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "santa idle in fear",
+          "frameRate": 12,
+          "looped": true,
+          "flipX": false,
+          "flipY": false
+        }
+      ]
+    }
+  ],
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1177.5, 871],
+      "cameraOffsets": [-300, -200]
+    },
+    "gf": { "zIndex": 100, "position": [808.5, 854], "cameraOffsets": [0, 0] },
+    "dad": {
+      "zIndex": 200,
+      "position": [42, 882],
+      "cameraOffsets": [150, -100]
+    }
+  }
+}

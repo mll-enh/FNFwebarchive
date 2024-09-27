@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tank0.png">
+<SubTexture name="fg tankhead far right instance 10000" x="0" y="0" width="229" height="337" frameX="0" frameY="0" frameWidth="314" frameHeight="450" />
+</TextureAtlas>

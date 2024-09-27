@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="results.png">
+<SubTexture name="results instance 10000" x="0" y="0" width="561" height="30" frameX="-295" frameY="-49" frameWidth="1130" frameHeight="149" />
+<SubTexture name="results instance 10001" x="0" y="30" width="909" height="116" frameX="-220" frameY="-7" frameWidth="1130" frameHeight="149" />
+<SubTexture name="results instance 10002" x="0" y="146" width="886" height="117" frameX="-235" frameY="-6" frameWidth="1130" frameHeight="149" />
+<SubTexture name="results instance 10003" x="0" y="263" width="323" height="118" frameX="-800" frameY="0" frameWidth="1130" frameHeight="149" />
+<SubTexture name="results instance 10004" x="0" y="381" width="853" height="106" frameX="-270" frameY="-12" frameWidth="1130" frameHeight="149" />
+<SubTexture name="results instance 10005" x="0" y="487" width="575" height="106" frameX="-548" frameY="-12" frameWidth="1130" frameHeight="149" />
+<SubTexture name="results instance 10006" x="0" y="593" width="1123" height="121" frameX="0" frameY="-12" frameWidth="1130" frameHeight="149" />
+<SubTexture name="results instance 10007" x="0" y="714" width="530" height="136" frameX="-594" frameY="-12" frameWidth="1130" frameHeight="149" />
+<SubTexture name="results instance 10008" x="0" y="850" width="554" height="126" frameX="-569" frameY="-12" frameWidth="1130" frameHeight="149" />
+</TextureAtlas>

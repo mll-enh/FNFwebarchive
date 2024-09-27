@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freeplaySelector.png">
+<SubTexture name="arrow pointer loop0000" x="0" y="0" width="49" height="90" frameX="0" frameY="0" frameWidth="49" frameHeight="90" />
+</TextureAtlas>

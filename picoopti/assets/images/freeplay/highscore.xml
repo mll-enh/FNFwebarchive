@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="highscore.png">
+<SubTexture name="highscore small instance 0000" x="0" y="0" width="288" height="43" frameX="0" frameY="0" frameWidth="289" frameHeight="43" />
+</TextureAtlas>

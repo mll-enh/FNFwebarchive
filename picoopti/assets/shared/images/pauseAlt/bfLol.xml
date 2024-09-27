@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfLol.png">
+<SubTexture name="funnyThing instance 10000" x="0" y="0" width="279" height="184" frameX="-1" frameY="-12" frameWidth="280" frameHeight="204" />
+<SubTexture name="funnyThing instance 10000" x="0" y="0" width="279" height="184" frameX="-1" frameY="-12" frameWidth="280" frameHeight="204" />
+<SubTexture name="funnyThing instance 10000" x="0" y="0" width="279" height="184" frameX="-1" frameY="-12" frameWidth="280" frameHeight="204" />
+<SubTexture name="funnyThing instance 10000" x="0" y="0" width="279" height="184" frameX="-1" frameY="-12" frameWidth="280" frameHeight="204" />
+<SubTexture name="funnyThing instance 10001" x="0" y="184" width="250" height="203" frameX="-11" frameY="0" frameWidth="280" frameHeight="204" />
+<SubTexture name="funnyThing instance 10001" x="0" y="184" width="250" height="203" frameX="-11" frameY="0" frameWidth="280" frameHeight="204" />
+<SubTexture name="funnyThing instance 10001" x="0" y="184" width="250" height="203" frameX="-11" frameY="0" frameWidth="280" frameHeight="204" />
+<SubTexture name="funnyThing instance 10001" x="0" y="184" width="250" height="203" frameX="-11" frameY="0" frameWidth="280" frameHeight="204" />
+</TextureAtlas>

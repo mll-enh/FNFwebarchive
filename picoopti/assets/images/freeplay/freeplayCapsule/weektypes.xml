@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="weektypes.png">
+<SubTexture name="WEEK text instance 10000" x="0" y="0" width="59" height="17" frameX="-3" frameY="-6" frameWidth="107" frameHeight="29" />
+<SubTexture name="WEEKEND text instance 10000" x="59" y="0" width="101" height="17" frameX="-3" frameY="-6" frameWidth="107" frameHeight="29" />
+</TextureAtlas>

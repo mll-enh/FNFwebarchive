@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ratingsPopin.png">
+<SubTexture name="Categories0000" x="0" y="0" width="328" height="405" frameX="-180" frameY="-7" frameWidth="511" frameHeight="418" />
+</TextureAtlas>
