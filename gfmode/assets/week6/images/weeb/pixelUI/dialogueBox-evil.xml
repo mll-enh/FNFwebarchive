@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dialogueBox-evil.png">
+<SubTexture name="Spirit Textbox spawn instance 0000" x="0" y="0" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0001" x="0" y="0" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0002" x="249" y="0" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0003" x="249" y="0" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0004" x="0" y="145" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0005" x="0" y="145" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0006" x="249" y="145" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0007" x="249" y="145" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0008" x="0" y="290" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0009" x="0" y="290" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0010" x="249" y="290" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+<SubTexture name="Spirit Textbox spawn instance 0011" x="249" y="290" width="249" height="145" frameX="0" frameY="0" frameWidth="249" frameHeight="145" />
+</TextureAtlas>

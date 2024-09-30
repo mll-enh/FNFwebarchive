@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BPMChange.png">
+<SubTexture name="BPMChange0000" x="0" y="0" width="259" height="247" frameX="-28" frameY="-45" frameWidth="320" frameHeight="320" />
+</TextureAtlas>

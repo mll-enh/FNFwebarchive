@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smokeLeft.png">
+<SubTexture name="SmokeBlurLeft instance 10000" x="224" y="379" width="209" height="296" frameX="-28" frameY="-106" frameWidth="256" frameHeight="422" />
+<SubTexture name="SmokeBlurLeft instance 10001" x="0" y="379" width="224" height="325" frameX="-8" frameY="-76" frameWidth="256" frameHeight="422" />
+<SubTexture name="SmokeBlurLeft instance 10002" x="655" y="0" width="221" height="356" frameX="-4" frameY="-34" frameWidth="256" frameHeight="422" />
+<SubTexture name="SmokeBlurLeft instance 10003" x="228" y="0" width="220" height="369" frameX="-20" frameY="-22" frameWidth="256" frameHeight="422" />
+<SubTexture name="SmokeBlurLeft instance 10004" x="0" y="0" width="228" height="379" frameX="-7" frameY="-5" frameWidth="256" frameHeight="422" />
+<SubTexture name="SmokeBlurLeft instance 10005" x="448" y="0" width="207" height="363" frameX="-13" frameY="-20" frameWidth="256" frameHeight="422" />
+</TextureAtlas>

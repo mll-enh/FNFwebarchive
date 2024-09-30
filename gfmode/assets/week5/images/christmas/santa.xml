@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="santa.png">
+<SubTexture name="santa idle in fear0000" x="0" y="0" width="649" height="747" frameX="-7" frameY="0" frameWidth="663" frameHeight="748" />
+<SubTexture name="santa idle in fear0001" x="649" y="0" width="649" height="747" frameX="-7" frameY="0" frameWidth="663" frameHeight="748" />
+</TextureAtlas>

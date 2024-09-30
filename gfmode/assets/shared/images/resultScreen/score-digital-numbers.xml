@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="score-digital-numbers.png">
+<SubTexture name="ONE DIGITAL0000" x="0" y="0" width="70" height="113" frameX="-15" frameY="-4" frameWidth="95" frameHeight="125" />
+<SubTexture name="ONE DIGITAL0001" x="70" y="0" width="59" height="88" frameX="-15" frameY="-16" frameWidth="95" frameHeight="125" />
+<SubTexture name="TWO DIGITAL0000" x="129" y="0" width="87" height="118" frameX="-1" frameY="-1" frameWidth="95" frameHeight="125" />
+<SubTexture name="TWO DIGITAL0001" x="216" y="0" width="59" height="89" frameX="-15" frameY="-15" frameWidth="95" frameHeight="125" />
+<SubTexture name="THREE DIGITAL0000" x="275" y="0" width="86" height="118" frameX="-2" frameY="-1" frameWidth="95" frameHeight="125" />
+<SubTexture name="THREE DIGITAL0001" x="0" y="118" width="59" height="90" frameX="-15" frameY="-15" frameWidth="95" frameHeight="125" />
+<SubTexture name="FOUR DIGITAL0000" x="59" y="118" width="87" height="112" frameX="-1" frameY="-4" frameWidth="95" frameHeight="125" />
+<SubTexture name="FOUR DIGITAL0001" x="146" y="118" width="59" height="88" frameX="-15" frameY="-16" frameWidth="95" frameHeight="125" />
+<SubTexture name="FIVE DIGITAL0000" x="205" y="118" width="87" height="119" frameX="-1" frameY="0" frameWidth="95" frameHeight="125" />
+<SubTexture name="FIVE DIGITAL0001" x="292" y="118" width="59" height="89" frameX="-15" frameY="-15" frameWidth="95" frameHeight="125" />
+<SubTexture name="SIX DIGITAL0000" x="0" y="237" width="87" height="119" frameX="-1" frameY="0" frameWidth="95" frameHeight="125" />
+<SubTexture name="SIX DIGITAL0001" x="87" y="237" width="59" height="89" frameX="-15" frameY="-15" frameWidth="95" frameHeight="125" />
+<SubTexture name="SEVEN DIGITAL0000" x="146" y="237" width="86" height="116" frameX="-2" frameY="-1" frameWidth="95" frameHeight="125" />
+<SubTexture name="SEVEN DIGITAL0001" x="232" y="237" width="59" height="88" frameX="-15" frameY="-16" frameWidth="95" frameHeight="125" />
+<SubTexture name="EIGHT DIGITAL0000" x="291" y="237" width="88" height="118" frameX="0" frameY="-1" frameWidth="95" frameHeight="125" />
+<SubTexture name="EIGHT DIGITAL0001" x="0" y="356" width="59" height="89" frameX="-15" frameY="-15" frameWidth="95" frameHeight="125" />
+<SubTexture name="NINE DIGITAL0000" x="59" y="356" width="87" height="118" frameX="-1" frameY="-1" frameWidth="95" frameHeight="125" />
+<SubTexture name="NINE DIGITAL0001" x="146" y="356" width="59" height="88" frameX="-15" frameY="-16" frameWidth="95" frameHeight="125" />
+<SubTexture name="ZERO DIGITAL0000" x="205" y="356" width="87" height="118" frameX="-1" frameY="-1" frameWidth="95" frameHeight="125" />
+<SubTexture name="ZERO DIGITAL0001" x="292" y="356" width="59" height="88" frameX="-15" frameY="-16" frameWidth="95" frameHeight="125" />
+<SubTexture name="DISABLED0000" x="0" y="474" width="59" height="88" frameX="-15" frameY="-16" frameWidth="95" frameHeight="125" />
+</TextureAtlas>

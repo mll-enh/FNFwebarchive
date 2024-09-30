@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smokeRight.png">
+<SubTexture name="SmokeRight instance 10000" x="265" y="0" width="263" height="440" frameX="-18" frameY="-24" frameWidth="284" frameHeight="469" />
+<SubTexture name="SmokeRight instance 10001" x="528" y="0" width="257" height="435" frameX="-12" frameY="-11" frameWidth="284" frameHeight="469" />
+<SubTexture name="SmokeRight instance 10002" x="0" y="0" width="265" height="442" frameX="-1" frameY="0" frameWidth="284" frameHeight="469" />
+<SubTexture name="SmokeRight instance 10003" x="0" y="442" width="258" height="413" frameX="-2" frameY="-26" frameWidth="284" frameHeight="469" />
+<SubTexture name="SmokeRight instance 10004" x="258" y="442" width="217" height="335" frameX="-16" frameY="-98" frameWidth="284" frameHeight="469" />
+<SubTexture name="SmokeRight instance 10005" x="785" y="0" width="255" height="423" frameX="-19" frameY="-40" frameWidth="284" frameHeight="469" />
+</TextureAtlas>

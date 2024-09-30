@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="limoDancer.png">
+<SubTexture name="bg dancer sketch PINK0000" x="0" y="0" width="394" height="394" frameX="0" frameY="-15" frameWidth="517" frameHeight="410" />
+<SubTexture name="bg dancer sketch PINK0001" x="394" y="0" width="389" height="385" frameX="-6" frameY="-24" frameWidth="517" frameHeight="410" />
+<SubTexture name="bg dancer sketch PINK0002" x="0" y="394" width="251" height="362" frameX="-121" frameY="-48" frameWidth="517" frameHeight="410" />
+<SubTexture name="bg dancer sketch PINK0003" x="251" y="394" width="404" height="410" frameX="-113" frameY="0" frameWidth="517" frameHeight="410" />
+<SubTexture name="bg dancer sketch PINK0004" x="0" y="804" width="395" height="404" frameX="-119" frameY="-5" frameWidth="517" frameHeight="410" />
+<SubTexture name="bg dancer sketch PINK0005" x="395" y="804" width="254" height="361" frameX="-141" frameY="-49" frameWidth="517" frameHeight="410" />
+</TextureAtlas>

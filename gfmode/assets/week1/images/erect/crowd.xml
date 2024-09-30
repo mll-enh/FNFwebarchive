@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowd.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 2 instance 1 instance 10000" x="10" y="10" width="1329" height="395" frameX="0" frameY="-2" frameWidth="1333" frameHeight="400"/>
+	<SubTexture name="Symbol 2 instance 1 instance 10001" x="1349" y="10" width="1320" height="388" frameX="-9" frameY="-9" frameWidth="1333" frameHeight="400"/>
+	<SubTexture name="Symbol 2 instance 1 instance 10002" x="2679" y="10" width="1321" height="390" frameX="-9" frameY="-9" frameWidth="1333" frameHeight="400"/>
+	<SubTexture name="Symbol 2 instance 1 instance 10003" x="10" y="415" width="1329" height="384" frameX="-1" frameY="-15" frameWidth="1333" frameHeight="400"/>
+	<SubTexture name="Symbol 2 instance 1 instance 10004" x="1349" y="415" width="1327" height="384" frameX="-1" frameY="-15" frameWidth="1333" frameHeight="400"/>
+	<SubTexture name="Symbol 2 instance 1 instance 10005" x="2686" y="415" width="1324" height="399" frameX="-4" frameY="0" frameWidth="1333" frameHeight="400"/>
+	<SubTexture name="Symbol 2 instance 1 instance 10006" x="10" y="824" width="1329" height="400" frameX="-4" frameY="0" frameWidth="1333" frameHeight="400"/>
+	<SubTexture name="Symbol 2 instance 1 instance 10007" x="1349" y="824" width="1333" height="398" frameX="0" frameY="-2" frameWidth="1333" frameHeight="400"/>
+</TextureAtlas>

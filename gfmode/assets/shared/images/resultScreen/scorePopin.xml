@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scorePopin.png">
+<SubTexture name="tally score0000" x="148" y="52" width="208" height="23" frameX="0" frameY="-48" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0001" x="0" y="0" width="194" height="52" frameX="-164" frameY="-18" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0002" x="194" y="0" width="201" height="39" frameX="-156" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0003" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0004" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0005" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0006" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0007" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0008" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0009" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0010" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0011" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0012" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0013" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+<SubTexture name="tally score0014" x="0" y="52" width="148" height="39" frameX="-210" frameY="-32" frameWidth="356" frameHeight="73" />
+</TextureAtlas>

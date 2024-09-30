@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="limoDrive.png">
+<SubTexture name="Limo stage0000" x="0" y="0" width="1001" height="323" frameX="-23" frameY="0" frameWidth="1024" frameHeight="323" />
+<SubTexture name="Limo stage0001" x="0" y="323" width="1001" height="323" frameX="-23" frameY="0" frameWidth="1024" frameHeight="323" />
+<SubTexture name="Limo stage0002" x="0" y="646" width="1001" height="323" frameX="-23" frameY="0" frameWidth="1024" frameHeight="323" />
+<SubTexture name="Limo stage0003" x="0" y="323" width="1001" height="323" frameX="-23" frameY="0" frameWidth="1024" frameHeight="323" />
+</TextureAtlas>

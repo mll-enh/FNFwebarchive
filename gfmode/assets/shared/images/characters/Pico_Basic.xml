@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pico_Basic.png">
+<SubTexture name="Pico Down Note0000" x="0" y="0" width="493" height="382" frameX="-13" frameY="-9" frameWidth="506" frameHeight="391" />
+<SubTexture name="Pico Down Note0001" x="493" y="0" width="502" height="391" frameX="0" frameY="0" frameWidth="506" frameHeight="391" />
+<SubTexture name="Pico Idle Dance0000" x="995" y="0" width="461" height="434" rotated="true" frameX="-18" frameY="-13" frameWidth="452" frameHeight="475" />
+<SubTexture name="Pico Idle Dance0001" x="0" y="434" width="468" height="441" rotated="true" frameX="-11" frameY="-6" frameWidth="452" frameHeight="475" />
+<SubTexture name="Pico Idle Dance0002" x="468" y="434" width="474" height="443" rotated="true" frameX="-1" frameY="-1" frameWidth="452" frameHeight="475" />
+<SubTexture name="Pico Idle Dance0003" x="942" y="434" width="475" height="442" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="475" />
+<SubTexture name="Pico Idle Dance0004" x="942" y="434" width="475" height="442" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="475" />
+<SubTexture name="Pico Idle Dance0005" x="942" y="434" width="475" height="442" rotated="true" frameX="0" frameY="0" frameWidth="452" frameHeight="475" />
+<SubTexture name="Pico NOTE LEFT0000" x="0" y="877" width="461" height="449" rotated="true" frameX="-5" frameY="-3" frameWidth="454" frameHeight="464" />
+<SubTexture name="Pico NOTE LEFT0001" x="461" y="877" width="464" height="454" rotated="true" frameX="0" frameY="0" frameWidth="454" frameHeight="464" />
+<SubTexture name="Pico Note Right0000" x="925" y="877" width="475" height="457" rotated="true" frameX="-1" frameY="0" frameWidth="458" frameHeight="475" />
+<SubTexture name="Pico Note Right0001" x="0" y="1334" width="472" height="441" rotated="true" frameX="0" frameY="-3" frameWidth="458" frameHeight="475" />
+<SubTexture name="pico Up note0000" x="472" y="1334" width="494" height="432" rotated="true" frameX="0" frameY="0" frameWidth="433" frameHeight="494" />
+<SubTexture name="pico Up note0001" x="966" y="1334" width="489" height="432" rotated="true" frameX="-1" frameY="-5" frameWidth="433" frameHeight="494" />
+</TextureAtlas>

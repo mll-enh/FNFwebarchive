@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smallnumbers.png">
+<SubTexture name="ZERO0000" x="0" y="0" width="13" height="17" frameX="-3" frameY="-6" frameWidth="18" frameHeight="28" />
+<SubTexture name="ONE0000" x="13" y="0" width="8" height="16" frameX="-2" frameY="-7" frameWidth="18" frameHeight="28" />
+<SubTexture name="TWO0000" x="21" y="0" width="13" height="15" frameX="-3" frameY="-7" frameWidth="18" frameHeight="28" />
+<SubTexture name="THREE0000" x="0" y="17" width="12" height="15" frameX="-3" frameY="-7" frameWidth="18" frameHeight="28" />
+<SubTexture name="FOUR0000" x="12" y="17" width="12" height="17" frameX="-3" frameY="-6" frameWidth="18" frameHeight="28" />
+<SubTexture name="FIVE0000" x="24" y="17" width="13" height="15" frameX="-3" frameY="-7" frameWidth="18" frameHeight="28" />
+<SubTexture name="SIX0000" x="0" y="34" width="12" height="15" frameX="-3" frameY="-7" frameWidth="18" frameHeight="28" />
+<SubTexture name="SEVEN0000" x="12" y="34" width="13" height="15" frameX="-2" frameY="-7" frameWidth="18" frameHeight="28" />
+<SubTexture name="EIGHT0000" x="25" y="34" width="13" height="15" frameX="-2" frameY="-7" frameWidth="18" frameHeight="28" />
+<SubTexture name="NINE0000" x="0" y="49" width="12" height="15" frameX="-3" frameY="-7" frameWidth="18" frameHeight="28" />
+</TextureAtlas>
